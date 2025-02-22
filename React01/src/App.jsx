@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-    <Tittle/>
+    <  Tittle/>
     <Tittle/>
     <Tittle/>
       
