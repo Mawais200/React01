@@ -7,7 +7,9 @@ function App() {
   return (
     <>
     <Tittle/>
-      <button>click me</button>
+    <Tittle/>
+    <Tittle/>
+      
     </>
   )
 }
