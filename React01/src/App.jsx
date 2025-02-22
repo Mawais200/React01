@@ -1,5 +1,7 @@
 import Tittle from './assets/Tittle'
 import './App.css'
+import CardTab from './CardTab'
+ './CardTab'
 
 function App() {
  
@@ -7,8 +9,8 @@ function App() {
   return (
     <>
     <  Tittle/>
-    <Tittle/>
-    <Tittle/>
+    <CardTab/>
+   
       
     </>
   )
